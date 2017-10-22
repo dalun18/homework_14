@@ -1,0 +1,78 @@
+body {
+	font-family: 'Roboto',sans-serif;
+	color: #222222;
+	text-align: justify;
+	text-indent: 40px;
+}
+
+h1 {
+	font-size: 2rem;
+	font-variant: small-caps;
+	font-weight: 400;
+	text-align:center;	
+	border-bottom-width: 2px; 
+	border-bottom-style: solid;
+	border-bottom-color: #aaaaaa;
+}
+    
+h2 {
+	font-size: 1.5rem;
+	font-weight: 500;
+	border-bottom-width: 1px; 
+	border-bottom-style: solid;
+	border-bottom-color: #aaaaaa;
+}
+figure {
+	margin: 15px 40px;
+	padding: 15px;
+	width: 250px;
+	background-color: #eeeeee;
+	border-radius: 3px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #dddddd;
+	text-indent: 0px;
+}
+.content {
+	margin: 15px 40px;
+	padding: 15px;
+	width: 250px;
+	background-color: #eeeeee;
+	border-radius: 3px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #dddddd;
+	text-indent: 0px;
+}
+.img {
+	font-size: 0.9rem;
+    font-style: italic;
+}
+.main_img {
+	font-weight: 500;
+}
+img {
+	width: 100%;
+	border-radius: 3px;
+}
+a:link{
+	text-decoration: none;
+	color: #0088ff;
+}
+a:visited{
+	color: red;
+}
+blockquote {
+	padding: 15px;
+	font-style: italic;
+	background-color: #eeeeee;
+	border-radius: 3px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #dddddd;
+}
+q {
+	quotes: "\00ab" "\00bb";
+	font-style: italic;
+	color: #888888;
+}
